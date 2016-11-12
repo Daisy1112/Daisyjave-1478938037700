@@ -3,6 +3,7 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: Daisyjave
+  name: Daisy1112
   host: Daisyjave
   disk_quota: 1024M
+  Workspace ID: a5d8c637-7dee-420e-b197-c6114235863b
